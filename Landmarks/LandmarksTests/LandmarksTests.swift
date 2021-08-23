@@ -2,7 +2,7 @@
 //  LandmarksTests.swift
 //  LandmarksTests
 //
-//  Created by 青野 知比古 on 2021/08/22.
+//  Created by tomohiko on 2021/08/22.
 //
 
 import XCTest
